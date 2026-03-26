@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy Policy
+title: HerFlow privacy policy
 ---
 
 # HerFlow: Period Tracker - privacy policy
